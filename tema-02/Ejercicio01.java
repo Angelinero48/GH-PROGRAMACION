@@ -1,4 +1,4 @@
-public class EjercicioUno{
+public class Ejercicio01{
 	public static void main (String[]args){
 		//@author Ángel Linero Cano
 		//Vamos a declarar dos variables y realizar su suma, resta, multiplicación y división

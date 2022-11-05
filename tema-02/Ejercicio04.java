@@ -1,4 +1,4 @@
-public class EjercicioCuatro{
+public class Ejercicio04{
 	public static void main (String[]args){
 		//@author Ángel Linero Cano
 		//Conversor de euros a pesetas

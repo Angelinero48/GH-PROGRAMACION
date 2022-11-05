@@ -1,4 +1,4 @@
-public class EjercicioDos{
+public class Ejercicio02{
 	public static void main (String[]args){
 		//@author Ángel Linero Cano hola
 		//Crear variable nombre y mostrarla por pantalla.
