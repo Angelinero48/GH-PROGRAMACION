@@ -11,3 +11,4 @@ public class Ejercicio05 {
 		System.out.printf("%.2f pesetas serían %.2f euros", pesetas, conv);
 	}
 }
+
