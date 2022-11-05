@@ -10,7 +10,7 @@ public class Ejercicio05 {
 		euros = 166.3860;
 		pesetas = 6000;
 		conv = pesetas / euros;
-		System.out.printf("%.2f pesetas serían %.2f euros", pesetas, conv);
+		System.out.printf("%.2f pesetas serían la cantidad de %.2f euros", pesetas, conv);
 	}
 }
 
