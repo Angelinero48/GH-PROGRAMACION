@@ -11,6 +11,6 @@ public class Ejercicio06Error {
         System.out.printf("La base imponible es %15.2f\n", baseImponible);
         System.out.printf("EL iva de este producto es %10.2f \n", iva);
         System.out.printf("-----------------------------------\n");
-        System.out.printf("TOTAL: %27.2f", total);
+        System.out.println("TOTAL:"+ total);
     }
 }
