@@ -1,11 +1,10 @@
 package tema_03;
-
+/**
+ * @author Ángel Linero Cano
+ * Introducir dos numeros por teclado y realizar la suma, resta multiplicación y división de ambos
+ */
 public class Ejercicio04 {
   public static void main(String[] args) {
-    /**
-     * @author Ángel Linero Cano
-     * Introducir dos numeros por teclado y realizar la suma, resta multiplicación y división de ambos
-     */
     String linea;
     System.out.println("Introduce el primer número: ");
     linea = System.console().readLine();
