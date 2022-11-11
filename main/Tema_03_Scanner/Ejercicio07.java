@@ -13,6 +13,6 @@ public class Ejercicio07 {
     baseimponible=s.nextDouble();
     double total;
     total= baseimponible*1.21;
-    System.out.printf("El total del producto con el iva es %.2f eurosjf", total);
+    System.out.printf("El total del producto con el iva es %.2f euros", total);
   }
 }
