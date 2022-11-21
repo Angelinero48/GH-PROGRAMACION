@@ -1,4 +1,4 @@
-package Tema_03_Scanner;
+package tema_03_parte2;
 import java.util.Scanner;
 
 /**

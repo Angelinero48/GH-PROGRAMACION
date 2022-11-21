@@ -12,7 +12,7 @@ public class Ejercicio10 {
     double mb;
     mb= s.nextDouble();
     double conv;
-    conv = mb *1000;
+    conv = mb *1024;
     System.out.println(mb + " Mb, son " + conv + " Kb");
   }
 }
