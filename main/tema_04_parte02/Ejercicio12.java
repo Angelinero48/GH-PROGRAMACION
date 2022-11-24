@@ -77,14 +77,18 @@ public class Ejercicio12 {
     if ("b".equals(respuestaNueve)) {
       nota++;
     }
-    System.out.println("10. La palabra -casa-, ¿En que variable podríamos almacenarla? : \na) String \nb) char \nc)float \nd) double ");
+    System.out.println("10. La palabra -casa-, ¿En que variable podríamos almacenarla? : \na) String \nb) char \nc) float \nd) double ");
     System.out.println("Tu respuesta es (Introduce la letra de la respuesta correcta): ");
     String respuestaDiez;
     respuestaDiez = s.nextLine();
     if ("a".equals(respuestaDiez)) {
       nota++;
     }
-    System.out.println("Tu nota es: " + nota + "/10");
+    if (nota>=5) {
+      System.out.println("Tu nota es: " + nota + "/10 \n¡Enhorabuena, has aprobado!");
+    }else {
+      System.out.println("Tu nota es: " + nota + "/10 \nLo siento, no has superado la prueba.");
+    }
   }
 }
 
