@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * @author Ángel Linero Cano
- *
+ * Crear una ruta entre dos ciudades, y el usuario puede elegir montarse en cualquier ciudad que este entre estas dos
  */
 public class CircuitoCiudades {
   public static void main(String[] args) {
