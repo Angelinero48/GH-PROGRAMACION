@@ -21,11 +21,13 @@ public class Ejercicio15 {
         System.out.println("  "+r+r+r);
         System.out.println(" "+r+r+r+r+r);
         System.out.println(""+r+r+r+r+r+r+r);
+        break;
       case 2:
         System.out.println(""+r+r+r+r+r+r+r);
         System.out.println(" "+r+r+r+r+r);
         System.out.println("  "+r+r+r);
         System.out.println("   "+r);
+        break;
       case 3:
         System.out.println(""+r);
         System.out.println(""+r+r+r);
@@ -34,6 +36,7 @@ public class Ejercicio15 {
         System.out.println(""+r+r+r+r);
         System.out.println(""+r+r+r);
         System.out.println(""+r);
+        break;
       case 4:
         System.out.println("   "+r+r);
         System.out.println("  "+r+r+r);
@@ -42,6 +45,7 @@ public class Ejercicio15 {
         System.out.println(" "+r+r+r+r);
         System.out.println("  "+r+r+r);
         System.out.println("   "+r+r);
+        break;
     }
   }
 }
