@@ -1,4 +1,8 @@
 package tema_05;
+/**
+ * @author Ángel Linero Cano
+ */
+
 import java.util.Scanner;
 
 public class EjercicioClase02 {

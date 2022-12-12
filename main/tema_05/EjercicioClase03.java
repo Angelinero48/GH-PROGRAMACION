@@ -1,4 +1,8 @@
 package tema_05;
+
+/**
+ * @author Angel Linero Cano
+ */
 public class EjercicioClase03 {
   public static void main(String[] args) {
     int sum;
